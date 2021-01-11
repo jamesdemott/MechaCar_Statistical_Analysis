@@ -32,5 +32,7 @@ t.test(MechaCar_mpg$vehicle_weight, MechaCar_mpg$mpg )
 P value is less than 0.05, so we reject the null hypothesis that weight does not affect MPG; in other words weight does not meaningfully affect MPG as per results of our t-test
 
 
+![screenshot of personal test](https://github.com/jamesdemott/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202021-01-11%20at%201.57.19%20PM.png)
+
 
 
